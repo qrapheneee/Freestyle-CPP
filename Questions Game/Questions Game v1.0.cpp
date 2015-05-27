@@ -1,6 +1,7 @@
 /*		
 		A TV serial/trilogy trivia totally inspired by
-		nothing but getting used to arrays and loops... XD
+		nothing but getting used to arrays and loops...
+		XD
 	
 		Written by Redhart Nakamura Nokturnal
 	
